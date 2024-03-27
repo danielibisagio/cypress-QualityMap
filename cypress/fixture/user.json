@@ -1,0 +1,27 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Qa",
+        "email": "john@teste.com.br",
+        "password":"password123"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Qa",
+        "email": "jane@teste.com.br",
+        "password":"password123"
+    },
+    {
+        "firstName": "Maria",
+        "lastName": "Qa",
+        "email": "maria@teste.com.br",
+        "password":"password1234"
+    },
+    {
+        "firstName": "Rafael",
+        "lastName": "Qa",
+        "email": "rafa@teste.com.br",
+        "password":"password1234"
+    }
+
+]
